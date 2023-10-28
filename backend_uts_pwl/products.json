@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Varsity",
+    "description": "Varsity Hijau Putih",
+    "price": 9.99,
+    "imageSrc": "/frontend_uts_pwl/src/Components/Assets/product1.jpg"
+  },
+  {
+    "title": "Iphone",
+    "description": "Iphone 14 PRO MAX",
+    "price": 19.99,
+    "imageSrc": "/frontend_uts_pwl/src/Components/Assets/product2.jpg"
+  },
+  {
+    "title": "Air Jordan",
+    "description": "Retro High OG Men's",
+    "price": 49.99,
+    "imageSrc": "/frontend_uts_pwl/src/Components/Assets/product3.jpg"
+  },
+  {
+    "title": "Air Jordan",
+    "description": "1 Mid SE",
+    "price": 14.99,
+    "imageSrc": "/frontend_uts_pwl/src/Components/Assets/product4.jpg"
+  },
+  {
+    "title": "Jeans",
+    "description": " Jeans MOM Fit",
+    "price": 29.99,
+    "imageSrc": "/frontend_uts_pwl/src/Components/Assets/product5.jpg"
+  },
+  {
+    "title": "Hoodie",
+    "description": "hoodie Roughneck Hijau",
+    "price": 59.99,
+    "imageSrc": "/frontend_uts_pwl/src/Components/Assets/product6.jpg"
+  }
+]
